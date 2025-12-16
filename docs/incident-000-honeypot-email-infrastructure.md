@@ -1,5 +1,5 @@
 # Incident‑000: Honeypot Email Infrastructure  
-**Author:** Mike Roehr  
+**Author:** Michael Roehr  
 **Role:** SOC Analyst (Blue Team)  
 **Tools:** Logseq, Python, SMTP/IMAP, Regex, Threat Intelligence Feeds  
 **Date:** December 2025  
